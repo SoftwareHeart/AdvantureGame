@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ertug
+ *
+ */
+module AdvantureGame {
+}
